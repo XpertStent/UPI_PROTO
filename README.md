@@ -1,4 +1,4 @@
-# UPI_PROTO
+# UPI_PROTOTYPE_FILES
 UPI website prototype.
 All WEBSITE prototype files
 
